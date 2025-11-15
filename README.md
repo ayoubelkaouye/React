@@ -1,5 +1,4 @@
 # React
-# React
 <!DOCTYPE html>
 <html lang="en">
 <head>
