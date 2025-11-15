@@ -16,6 +16,7 @@
         }
         let et1 = new Etudiant("ali", 21);
         let et2 = new Etudiant("mohamed", 22);
+        console.log(et1);
     </script>
 </body>
 </html>
